@@ -29,3 +29,4 @@ Characteristics of manual transitions between songs that will be taken into acco
 ## Resources
 
 - [Magenta](https://github.com/tensorflow/magenta) is an Open Source project by Google and offers _MusicVAE_, a model that will probably be of use.
+- [MuseNet](https://openai.com/blog/musenet/) is a project by OpenAI. The model is basen on a Sparse Transformer that is trained on predicting the next note after a note sequence.
